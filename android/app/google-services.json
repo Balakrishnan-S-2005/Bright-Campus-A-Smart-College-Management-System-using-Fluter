@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572039761466",
+    "project_id": "bkpopz-3ac54",
+    "storage_bucket": "bkpopz-3ac54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572039761466:android:4e96dd3f5fbbe592e2af03",
+        "android_client_info": {
+          "package_name": "com.example.bkpopz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAuEZwmBmJV36pcFgdL4RHtIde3wYIovU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572039761466:android:10fae4d28614239fe2af03",
+        "android_client_info": {
+          "package_name": "com.example.home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAuEZwmBmJV36pcFgdL4RHtIde3wYIovU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
